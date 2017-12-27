@@ -15,7 +15,7 @@
 'post_type' => array('X', 'Y', 'Z),
 
 /*
- * You have to exchangen X, Y and Z with the names of your individual custom post types. The CPT will the show up
+ * You have to exchange X, Y and Z with the names of your individual custom post types. The CPT will the show up
  * in the suggestion widget in the Wordpress GUI.
  *
  * If you use posts and pages too, you have to add them to the above array too.
