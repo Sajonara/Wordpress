@@ -1,6 +1,6 @@
 <?php
 
-/* Add a function to to filter search results corpus */
+/* Add a function to filter the search results corpus */
 
 add_filter( 'pre_get_posts', 'sn_define_search_corpus' );
   function sn_define_search_corpus( $query ) {
