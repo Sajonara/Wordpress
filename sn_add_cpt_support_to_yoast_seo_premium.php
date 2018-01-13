@@ -12,7 +12,7 @@
 
 // add directly beneath it:
 
-'post_type' => array('X', 'Y', 'Z),
+'post_type' => array('X', 'Y', 'Z'),
 
 /*
  * You have to exchange X, Y and Z with the names of your individual custom post types. The CPT will the show up
