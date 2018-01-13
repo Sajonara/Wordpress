@@ -4,7 +4,7 @@
  * You will have to make the additions and edits every time your plugin updates.
  */
  
-// Edit the file „/premium/premium-link-suggestions-service.php“
+// Edit the file „/premium/classes/premium-link-suggestions-service.php“
 
 // Search for:
 
